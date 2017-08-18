@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ac384deb-a397-488c-b943-4146f603d251" name="proj" url="http://143.106.241.1">
+        <fileTransfer host="143.106.241.1" port="1609" rootFolder="/var/www/cti213" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1609" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
